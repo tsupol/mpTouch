@@ -1,0 +1,11 @@
+ofxGui
+ofxOpenCv
+ofxVectorGraphics
+ofxXmlSettings
+ofxJSON
+ofxLibwebsockets
+ofxSimpleHttp
+ofxSimpleTimer
+ofxThreadedImage
+ofxTuio
+ofxTween
